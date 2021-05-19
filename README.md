@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm York 👋
 
 <!--
 **Yorkzhang19961122/Yorkzhang19961122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏫 EE 2 CS
+
+⚒️ C++ / Python / JavaScript / Vue
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Yorkzhang19961122&show_icons=true">
+
+![York Zhang Github Stats](https://github-readme-stats.vercel.app/api?username=anishghimire603&show_icons=true)
