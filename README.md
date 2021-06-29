@@ -4,5 +4,5 @@
 
 🏫 EE 2 CS
 
-⚒️ C++ / Python / JavaScript / Vue / MySQL
+⚒️ C/C++ / Python
 
