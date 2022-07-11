@@ -4,6 +4,4 @@
 
 🏫 EE 2 CS
 
-⚒️ C/C++ / Python
-
-Now @Bytedance
+⚒️ C/C++ / Golang / Java / Python
