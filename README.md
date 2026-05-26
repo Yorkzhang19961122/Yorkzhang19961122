@@ -2,6 +2,6 @@
 
 ### **Hi, I'm York** 👋
 
-🏫 Job for EDA
+🏫 focus on EDA
 
 ⚒️ C++/LLM
