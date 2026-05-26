@@ -2,6 +2,6 @@
 
 ### **Hi, I'm York** 👋
 
-🏫 EE 2 CS
+🏫 Job for EDA
 
-⚒️ C/C++ / Golang / Java / Python
+⚒️ C++/LLM
